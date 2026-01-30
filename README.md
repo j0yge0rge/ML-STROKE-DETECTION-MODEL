@@ -9,7 +9,7 @@ A comprehensive data analysis and machine learning project to predict stroke occ
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes a healthcare dataset containing patient information to identify patterns and risk factors associated with stroke occurrence. Using exploratory data analysis (EDA) and machine learning techniques, we aim to build a predictive model that can help identify individuals at high risk of stroke.
 
@@ -17,7 +17,7 @@ Stroke is a leading cause of death and disability worldwide. Early prediction an
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform comprehensive exploratory data analysis (EDA) on stroke patient data
 - Identify key risk factors and patterns associated with stroke occurrence
@@ -27,7 +27,7 @@ Stroke is a leading cause of death and disability worldwide. Early prediction an
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 ### Source
 Healthcare Stroke Dataset
@@ -63,7 +63,7 @@ Healthcare Stroke Dataset
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 ### 1. Exploratory Data Analysis (EDA)
 - **Data structure analysis:** Understanding data types and dimensions
@@ -106,7 +106,7 @@ Healthcare Stroke Dataset
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Core Libraries
 - **Python 3.8+** - Programming language
@@ -134,7 +134,7 @@ Healthcare Stroke Dataset
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -185,7 +185,7 @@ Navigate to and open `stroke-analysis.ipynb` in your browser.
 
 ---
 
-## 📝 Requirements
+## Requirements
 
 Create a `requirements.txt` file with the following content:
 
@@ -214,7 +214,7 @@ scipy>=1.11.0
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Running the Full Analysis
 
@@ -257,7 +257,7 @@ scipy>=1.11.0
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 > **Note:** Add your actual findings after completing the analysis
 
@@ -303,7 +303,7 @@ Top 5 most important features:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### Sample Outputs
 
@@ -326,7 +326,7 @@ Top 5 most important features:
 
 ---
 
-## 🎓 Insights & Recommendations
+## Insights & Recommendations
 
 ### For Healthcare Professionals
 
@@ -357,7 +357,7 @@ Top 5 most important features:
 
 ---
 
-## 🔄 Future Improvements
+## Future Improvements
 
 - [ ] Collect more data to address class imbalance
 - [ ] Include additional features (family history, medication, diet)
@@ -370,7 +370,7 @@ Top 5 most important features:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 stroke-prediction-analysis/
@@ -408,7 +408,7 @@ stroke-prediction-analysis/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to improve this project:
 
@@ -428,7 +428,7 @@ Contributions are welcome! If you'd like to improve this project:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -442,45 +442,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
-
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Add source link if available]
+- Dataset source: [(https://www.kaggle.com/code/dmitryuarov/stroke-eda-prediction-with-6-models#Preprocessing)]
 - Inspiration from various stroke prediction research papers
 - Thanks to the open-source community for amazing tools
 - Healthcare professionals who provided domain expertise
 
 ---
 
-## 📚 References
 
-1. World Health Organization. (2023). Stroke Statistics. [Link]
-2. American Stroke Association. (2023). Risk Factors for Stroke. [Link]
-3. Machine Learning for Healthcare: [Relevant Papers]
-4. Scikit-learn Documentation: https://scikit-learn.org/
-5. Pandas Documentation: https://pandas.pydata.org/
 
----
-
-## 📞 Contact & Support
-
-If you have questions or suggestions:
-
-- **Open an Issue:** [GitHub Issues](https://github.com/yourusername/stroke-prediction-analysis/issues)
-- **Discussion:** [GitHub Discussions](https://github.com/yourusername/stroke-prediction-analysis/discussions)
-- **Email:** your.email@example.com
-
----
-
-## ⭐ Star This Repository
+## Star This Repository
 
 If you found this project helpful, please consider giving it a star ⭐
 
@@ -509,4 +483,4 @@ This project uses anonymized healthcare data for research and educational purpos
 
 ---
 
-**Made with ❤️ and Python**
+
