@@ -6,7 +6,7 @@ A comprehensive data analysis and machine learning project to predict stroke occ
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![Pandas](https://img.shields.io/badge/pandas-latest-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-[![View Presentation](https://img.shields.io/badge/View-Presentation-blue?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAGnDpMH-30/QtC9ZnsGbMfH5ntO3yFgvA/edit?utm_content=DAGnDpMH-30&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![View Presentation](https://img.shields.io/badge/View-Presentation-blue.svg)](https://www.canva.com/design/DAGnDpMH-30/QtC9ZnsGbMfH5ntO3yFgvA/edit?utm_content=DAGnDpMH-30&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ## Project Overview
