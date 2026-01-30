@@ -428,22 +428,8 @@ Contributions are welcome! If you'd like to improve this project:
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ❌ Liability
-- ❌ Warranty
-
----
-
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset source: [(https://www.kaggle.com/code/dmitryuarov/stroke-eda-prediction-with-6-models#Preprocessing)]
 - Inspiration from various stroke prediction research papers
@@ -456,15 +442,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Star This Repository
 
-If you found this project helpful, please consider giving it a star ⭐
+If you found this project helpful, please consider giving it a star 
 
 It helps others discover the project and motivates continued development!
 
 ---
 
-## 📊 Project Status
+## Project Status
 
-🟢 **Active Development** - This project is actively maintained and updated.
+**Active Development** - This project is actively maintained and updated.
 
 **Last Updated:** January 30, 2026
 
@@ -472,7 +458,7 @@ It helps others discover the project and motivates continued development!
 
 ---
 
-## 🔐 Data Privacy & Ethics
+## Data Privacy & Ethics
 
 This project uses anonymized healthcare data for research and educational purposes only. Patient privacy is of utmost importance:
 
